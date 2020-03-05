@@ -1,0 +1,25 @@
+body{
+  background-color: #fff!important;
+  color:#000!important;
+}
+h1{
+  margin-top: 30px!important;
+  font-family: fantasy!important;
+  text-align: center;
+}
+.search_bar{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+li{
+  display:block!important;
+}
+li:hover{
+    background-color: rgb(97, 94, 94);
+    color: #fff!important;
+}
+
+.list_title_item {
+  padding-top: 40px;
+  text-align: center;
+}
